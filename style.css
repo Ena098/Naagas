@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+    border-style: solid;
+    border-raduis: Spax;    
+}
+
+h1{
+    background-color: lightgray;
+    text-align: center;
+    font-family: 
+    border-raduis: 6px;
+    margin: 5px;    
+}
+h2{
+    text-align: left;
+}
+p{
+    margin: 12px;
+    font-family: Time New Roman;
+    font-size: 20px;
+    border-raduis: 10px;
+}
+video{
+    
+}
